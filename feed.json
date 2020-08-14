@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://sanderspianostudio.com/piano-teaching-mentorship.html",
+            "url": "https://sanderspianostudio.com/piano-teaching-mentorship.html",
+            "title": "Piano teaching mentorship",
+            "summary": "For young adults looking to turn their music making into a career&hellip;",
+            "content_html": "<p>For young adults looking to turn their music making into a career in teaching. Monica provides an in depth mentorship that provides experiential work as well as access to tools and materials. This is a scholarship only program. Please inquire for more information about the audition and application process.</p>\n<p>I welcome and encourage the next generation of music educators to apply. </p>",
+            "author": {
+                "name": "Monica Sanders"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-14T09:51:33-07:00",
+            "date_modified": "2020-08-14T09:51:33-07:00"
+        },
+        {
             "id": "https://sanderspianostudio.com/about-monica.html",
             "url": "https://sanderspianostudio.com/about-monica.html",
             "title": "About Monica",
@@ -22,8 +36,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-14T09:38:42-07:00",
-            "date_modified": "2020-08-14T09:38:42-07:00"
+            "date_published": "2020-08-14T09:51:33-07:00",
+            "date_modified": "2020-08-14T09:51:33-07:00"
         },
         {
             "id": "https://sanderspianostudio.com/camps.html",
@@ -37,8 +51,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-14T09:38:42-07:00",
-            "date_modified": "2020-08-14T09:38:42-07:00"
+            "date_published": "2020-08-14T09:51:33-07:00",
+            "date_modified": "2020-08-14T09:51:33-07:00"
         },
         {
             "id": "https://sanderspianostudio.com/body-mapping.html",
@@ -52,8 +66,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-14T09:38:42-07:00",
-            "date_modified": "2020-08-14T09:38:42-07:00"
+            "date_published": "2020-08-14T09:51:33-07:00",
+            "date_modified": "2020-08-14T09:51:33-07:00"
         },
         {
             "id": "https://sanderspianostudio.com/teaching.html",
@@ -67,8 +81,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-14T09:38:42-07:00",
-            "date_modified": "2020-08-14T09:38:42-07:00"
+            "date_published": "2020-08-14T09:51:33-07:00",
+            "date_modified": "2020-08-14T09:51:33-07:00"
         },
         {
             "id": "https://sanderspianostudio.com/studio-policy.html",
@@ -82,8 +96,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-14T09:38:42-07:00",
-            "date_modified": "2020-08-14T09:38:42-07:00"
+            "date_published": "2020-08-14T09:51:33-07:00",
+            "date_modified": "2020-08-14T09:51:33-07:00"
         }
     ]
 }
